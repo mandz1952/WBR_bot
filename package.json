@@ -1,0 +1,21 @@
+{
+  "name": "testrabota",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@grammyjs/hydrate": "^1.4.1",
+    "dotenv": "^16.4.5",
+    "firebase": "^10.13.2",
+    "grammy": "^1.30.0",
+    "nodemon": "^3.1.7",
+    "underscore": "^1.13.7"
+  }
+}
